@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TdExample.Example
 {
-    class SwitchGradeExample
+    public class SwitchGradeExample
     {
         
         //Constructor to create new instance of students grade
