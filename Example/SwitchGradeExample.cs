@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TdExample.Example
 {
-    class SwitchGradeExample
+    public class SwitchGradeExample
     {
         
         //Constructor to create new instance of students grade
@@ -20,7 +20,7 @@ namespace TdExample.Example
         /// To add grades of students
         /// </summary>
         /// <param name="grade"></param>
-        public void AddGrades( float grade)
+        public void AddGrades(float grade)
         {
             StudentsGrades.Add(grade);
         }
