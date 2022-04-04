@@ -20,7 +20,7 @@ namespace TdExample.Example
         /// To add grades of students
         /// </summary>
         /// <param name="grade"></param>
-        public void AddGrades( float grade)
+        public void AddGrades(float grade)
         {
             StudentsGrades.Add(grade);
         }

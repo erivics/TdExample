@@ -4,14 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TdExample1
+namespace TdExample.Example
 {
-    class Program
+    class Example
     {
-
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
